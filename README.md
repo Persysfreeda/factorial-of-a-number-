@@ -1,6 +1,7 @@
 # FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
-
+# Name: Persys freeda J
+# Reg no: 212224060185
 ## AIM
 To write and execute an Assembly language program to perform the factorial of a number using 8051 Keil.
 
@@ -53,13 +54,15 @@ END
 
 ```
 OUTPUT
+<img width="954" height="202" alt="Screenshot 2026-02-19 090217" src="https://github.com/user-attachments/assets/07259d81-3d49-4bd9-9394-b0ec611d145c" />
 
-(Keil output screenshot can be inserted here)
 
 ---
 MANUAL CALCULATIONS
 
----
+
+<img width="636" height="326" alt="image" src="https://github.com/user-attachments/assets/1a24aa1c-18f0-4707-a0bd-c9f5840cc4a6" />
+
 
 RESULT
 
